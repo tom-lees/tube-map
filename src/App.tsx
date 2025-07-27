@@ -1,5 +1,5 @@
 import { Canvas } from "@react-three/fiber";
-import Sketch from "./Sketch";
+import Sketch from "./sketch";
 
 function App() {
   return (
